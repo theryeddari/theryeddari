@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bonjour, je suis actuellement en formation avec OpenClassRoom.
+j'ai commencé il y a presque un an
+Au plaisir d'échanger si besoin.
 
 <!--
 **theryeddari/theryeddari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
